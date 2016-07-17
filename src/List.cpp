@@ -1,10 +1,3 @@
-/*
- * List.cpp
- *
- *  Created on: May 22, 2016
- *      Author: raydelto
- */
-
 #include "List.h"
 #include <iostream>
 #include <cstdlib>

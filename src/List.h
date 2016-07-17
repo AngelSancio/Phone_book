@@ -1,10 +1,3 @@
-/*
- * List.h
- *
- *  Created on: May 22, 2016
- *      Author: raydelto
- */
-
 #ifndef LIST_H_
 #define LIST_H_
 #include "Element.h"
